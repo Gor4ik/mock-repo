@@ -854,4 +854,4 @@ Glad to be part of this community.
 
 ## Hello, Kottans!
 My name is Igor.
-![Cat] https://gph.is/1Q4dEv8
+![Cat](https://media.giphy.com/media/m7CXZC3hKSZ9e/giphy.mp4)
